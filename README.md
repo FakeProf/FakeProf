@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning javascript.<br>I've been creating little things with html and css <br>for over a year now.<br>
+I am creating Websites <+>
 
 
 ## 🌐 Socials:
